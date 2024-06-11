@@ -1,6 +1,4 @@
-using Events.Enum;
 using Events.Interface;
-using Type = Events.Enum.Type;
 
 namespace Events.Payment;
 
