@@ -1,0 +1,12 @@
+/home/felipe/RiderProjects/Payment/Events/bin/Debug/net8.0/Events.deps.json
+/home/felipe/RiderProjects/Payment/Events/bin/Debug/net8.0/Events.dll
+/home/felipe/RiderProjects/Payment/Events/bin/Debug/net8.0/Events.pdb
+/home/felipe/RiderProjects/Payment/Events/obj/Debug/net8.0/Events.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/RiderProjects/Payment/Events/obj/Debug/net8.0/Events.AssemblyInfoInputs.cache
+/home/felipe/RiderProjects/Payment/Events/obj/Debug/net8.0/Events.AssemblyInfo.cs
+/home/felipe/RiderProjects/Payment/Events/obj/Debug/net8.0/Events.csproj.CoreCompileInputs.cache
+/home/felipe/RiderProjects/Payment/Events/obj/Debug/net8.0/Events.dll
+/home/felipe/RiderProjects/Payment/Events/obj/Debug/net8.0/refint/Events.dll
+/home/felipe/RiderProjects/Payment/Events/obj/Debug/net8.0/Events.pdb
+/home/felipe/RiderProjects/Payment/Events/obj/Debug/net8.0/ref/Events.dll
+/home/felipe/RiderProjects/Payment/Events/obj/Debug/net8.0/Events.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+/home/felipe/RiderProjects/Payment/Domain/bin/Release/net8.0/Domain.deps.json
+/home/felipe/RiderProjects/Payment/Domain/bin/Release/net8.0/Domain.dll
+/home/felipe/RiderProjects/Payment/Domain/bin/Release/net8.0/Domain.pdb
+/home/felipe/RiderProjects/Payment/Domain/obj/Release/net8.0/Domain.csproj.AssemblyReference.cache
+/home/felipe/RiderProjects/Payment/Domain/obj/Release/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/RiderProjects/Payment/Domain/obj/Release/net8.0/Domain.AssemblyInfoInputs.cache
+/home/felipe/RiderProjects/Payment/Domain/obj/Release/net8.0/Domain.AssemblyInfo.cs
+/home/felipe/RiderProjects/Payment/Domain/obj/Release/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/felipe/RiderProjects/Payment/Domain/obj/Release/net8.0/Domain.dll
+/home/felipe/RiderProjects/Payment/Domain/obj/Release/net8.0/refint/Domain.dll
+/home/felipe/RiderProjects/Payment/Domain/obj/Release/net8.0/Domain.pdb
+/home/felipe/RiderProjects/Payment/Domain/obj/Release/net8.0/ref/Domain.dll

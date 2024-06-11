@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6BF7VOqiJnSxiwctSx7I/pCNm/5z67T6gdlOL2+XrG80K/xcLv4OqLq/KDk8AhH1kSbze47YjaG1Z5gtT68g0w==",
+  "success": true,
+  "projectFilePath": "/home/felipe/RiderProjects/Payment/Integration/Integration.csproj",
+  "expectedPackageFiles": [
+    "/home/felipe/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/home/felipe/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/home/felipe/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

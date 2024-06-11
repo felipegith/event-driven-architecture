@@ -1,0 +1,15 @@
+/home/felipe/RiderProjects/Payment/Domain/bin/Debug/net8.0/Domain.deps.json
+/home/felipe/RiderProjects/Payment/Domain/bin/Debug/net8.0/Domain.dll
+/home/felipe/RiderProjects/Payment/Domain/bin/Debug/net8.0/Domain.pdb
+/home/felipe/RiderProjects/Payment/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/RiderProjects/Payment/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/home/felipe/RiderProjects/Payment/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/home/felipe/RiderProjects/Payment/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/home/felipe/RiderProjects/Payment/Domain/obj/Debug/net8.0/Domain.dll
+/home/felipe/RiderProjects/Payment/Domain/obj/Debug/net8.0/refint/Domain.dll
+/home/felipe/RiderProjects/Payment/Domain/obj/Debug/net8.0/Domain.pdb
+/home/felipe/RiderProjects/Payment/Domain/obj/Debug/net8.0/ref/Domain.dll
+/home/felipe/RiderProjects/Payment/Domain/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/home/felipe/RiderProjects/Payment/Domain/obj/Debug/net8.0/Domain.csproj.CopyComplete
+/home/felipe/RiderProjects/Payment/Domain/bin/Debug/net8.0/Integration.dll
+/home/felipe/RiderProjects/Payment/Domain/bin/Debug/net8.0/Integration.pdb

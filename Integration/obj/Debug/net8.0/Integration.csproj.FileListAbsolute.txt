@@ -1,0 +1,12 @@
+/home/felipe/RiderProjects/Payment/Integration/bin/Debug/net8.0/Integration.deps.json
+/home/felipe/RiderProjects/Payment/Integration/bin/Debug/net8.0/Integration.dll
+/home/felipe/RiderProjects/Payment/Integration/bin/Debug/net8.0/Integration.pdb
+/home/felipe/RiderProjects/Payment/Integration/obj/Debug/net8.0/Integration.csproj.AssemblyReference.cache
+/home/felipe/RiderProjects/Payment/Integration/obj/Debug/net8.0/Integration.GeneratedMSBuildEditorConfig.editorconfig
+/home/felipe/RiderProjects/Payment/Integration/obj/Debug/net8.0/Integration.AssemblyInfoInputs.cache
+/home/felipe/RiderProjects/Payment/Integration/obj/Debug/net8.0/Integration.AssemblyInfo.cs
+/home/felipe/RiderProjects/Payment/Integration/obj/Debug/net8.0/Integration.csproj.CoreCompileInputs.cache
+/home/felipe/RiderProjects/Payment/Integration/obj/Debug/net8.0/Integration.dll
+/home/felipe/RiderProjects/Payment/Integration/obj/Debug/net8.0/refint/Integration.dll
+/home/felipe/RiderProjects/Payment/Integration/obj/Debug/net8.0/Integration.pdb
+/home/felipe/RiderProjects/Payment/Integration/obj/Debug/net8.0/ref/Integration.dll
